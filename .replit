@@ -1,2 +1,2 @@
 language = "nodejs"
-run = "javascriptSol/index.js"
+run = "node javascriptSol/largestNumber.js"
